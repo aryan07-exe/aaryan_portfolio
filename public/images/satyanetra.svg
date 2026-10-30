@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<defs><radialGradient id="g"><stop stop-color="#2879a3" stop-opacity=".45"/><stop offset="1" stop-color="#05090d" stop-opacity="0"/></radialGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#6fcfff" stroke-opacity=".15"/></pattern></defs>
+<rect width="900" height="560" fill="#060a0e"/><rect width="900" height="560" fill="url(#grid)"/><ellipse cx="470" cy="280" rx="350" ry="260" fill="url(#g)"/>
+<g fill="none" stroke="#79d2ff" stroke-opacity=".5"><path d="M180 100Q430 20 690 170T760 420"/><path d="M120 360Q370 170 770 280"/><path d="M210 480Q450 250 720 80"/></g>
+<g fill="#8cddff"><circle cx="180" cy="100" r="4"/><circle cx="690" cy="170" r="4"/><circle cx="760" cy="420" r="4"/><circle cx="120" cy="360" r="3"/><circle cx="720" cy="80" r="3"/></g>
+<g transform="translate(330 65)" fill="none" stroke="#d7efff" stroke-opacity=".82" stroke-width="2"><path d="M190 35c-75 0-132 64-132 153 0 48 20 82 46 113l-4 70h166l-5-70c27-31 47-65 47-113 0-89-55-153-118-153Z"/><path d="M88 180q35-35 70 0m28 0q35-35 70 0M135 260q50 35 100 0M118 116q72-52 145 0" stroke="#71cfff"/><path d="M190 35v337M58 188h255M96 300h190" stroke-opacity=".25" stroke-dasharray="5 8"/></g>
+<g fill="#a7c7d8" font-family="monospace" font-size="14" letter-spacing="3"><text x="40" y="48">MULTIMODAL SIGNAL ANALYSIS</text><text x="40" y="520">FRAME / AUDIO / TEMPORAL FEATURES</text><text x="730" y="520">S-01</text></g>
+</svg>

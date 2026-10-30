@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<defs><pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#6fcfff" stroke-opacity=".14"/></pattern><radialGradient id="r"><stop stop-color="#1c709b" stop-opacity=".38"/><stop offset="1" stop-color="#05090d" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="560" fill="#060a0e"/><rect width="900" height="560" fill="url(#g)"/><ellipse cx="470" cy="270" rx="350" ry="260" fill="url(#r)"/>
+<g fill="none" stroke="#73d1ff" stroke-width="2" stroke-opacity=".75"><path d="M150 160L350 110 550 180 740 110M150 160L270 350 490 390 740 110M350 110L490 390 740 420"/><circle cx="150" cy="160" r="20"/><circle cx="350" cy="110" r="20"/><circle cx="550" cy="180" r="20"/><circle cx="740" cy="110" r="20"/><circle cx="270" cy="350" r="20"/><circle cx="490" cy="390" r="20"/><circle cx="740" cy="420" r="20"/></g>
+<g fill="#c5efff"><circle cx="150" cy="160" r="5"/><circle cx="350" cy="110" r="5"/><circle cx="550" cy="180" r="5"/><circle cx="740" cy="110" r="5"/><circle cx="270" cy="350" r="5"/><circle cx="490" cy="390" r="5"/><circle cx="740" cy="420" r="5"/></g>
+<g fill="#a9c9d9" font-family="monospace" font-size="14" letter-spacing="3"><text x="38" y="48">LANGGRAPH / TOOL ROUTING / MEMORY</text><text x="38" y="520">ASK → PLAN → AGENT</text></g>
+<rect x="615" y="260" width="220" height="120" fill="#09121a" stroke="#6fcfff" stroke-opacity=".55"/><g fill="#8ddcff" font-family="monospace" font-size="12"><text x="635" y="290">$ agent.run()</text><text x="635" y="320">checkpoint: saved</text><text x="635" y="350">workspace: isolated</text></g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<defs><pattern id="g" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#6fcfff" stroke-opacity=".13"/></pattern><linearGradient id="p" x2="1" y2="1"><stop stop-color="#5ecaff" stop-opacity=".32"/><stop offset="1" stop-color="#071018" stop-opacity=".05"/></linearGradient></defs>
+<rect width="900" height="560" fill="#060a0e"/><rect width="900" height="560" fill="url(#g)"/>
+<g fill="url(#p)" stroke="#79d2ff" stroke-opacity=".7" stroke-width="2">
+<path d="M280 105l300-45 95 315-300 50Z"/><path d="M220 145l300-45 95 315-300 50Z"/><path d="M160 185l300-45 95 315-300 50Z"/>
+</g>
+<g stroke="#b8eaff" stroke-opacity=".65" stroke-width="3"><path d="M220 235h220M205 270h250M190 305h190M350 180h130M330 350h180"/></g>
+<g fill="#78d4ff"><circle cx="690" cy="110" r="5"/><circle cx="740" cy="390" r="5"/><circle cx="120" cy="420" r="4"/></g>
+<g stroke="#68c9ff" stroke-opacity=".45" fill="none"><path d="M120 420L220 390 320 430 440 365 580 375 740 390"/><circle cx="440" cy="365" r="95"/><circle cx="440" cy="365" r="140"/></g>
+<g fill="#a7c7d8" font-family="monospace" font-size="14" letter-spacing="3"><text x="38" y="48">DOCUMENT INTELLIGENCE / RETRIEVAL</text><text x="38" y="520">SEMANTIC CHUNKS · VECTOR SEARCH · EVALUATION</text></g>
+</svg>
